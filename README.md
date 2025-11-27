@@ -12,16 +12,16 @@ Sono un appassionato di:
 
 ---
 
-### 🛠️ Le Mie Competenze Tecniche
+### 🛠️ Competenze Tecniche
 
 Ho esperienza intermedia con i seguenti linguaggi e strumenti:
 
 | Categoria | Linguaggi / Strumenti |
 | :--- | :--- |
-| **Data Science / ML** | Python (Pandas, NumPy), Seaborn |
+| **Data Science** | Python (Pandas, NumPy), Seaborn |
 | **Linguaggi** | **Python**, **Java**, **C**, HTML/CSS |
 | **Versionamento** | **Git**, GitHub |
-| **Documentazione** | **LaTeX** (Ho ampie capacità nell'uso di LaTeX per relazioni tecniche.) |
+| **Documentazione** | **LaTeX** (Ampie capacità nell'uso di LaTeX per relazioni tecniche.) |
 
 ---
 
