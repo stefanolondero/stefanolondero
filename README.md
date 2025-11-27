@@ -2,6 +2,7 @@
 
 ### 👨‍💻 Chi Sono
 Sono uno studente di Informatica al secondo anno presso l'Università degli Studi di Udine (UNIUD).
+
 Di seguito il mio Curriculum Vitae: [CV](tbd)
 
 Sono un appassionato di:
