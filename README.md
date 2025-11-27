@@ -28,14 +28,13 @@ Ho esperienza intermedia con i seguenti linguaggi e strumenti:
 ### 📊 Progetti
 
 #### 📈 [Analisi Fondo WRL](https://github.com/stefanolondero/Analisi-Fondo-VWRL)
-* **Descrizione:** A deep analysis of the Vanguard FTSE All-World UCITS ETF (VWRL) from 2014 to 2025.
-                   Focus: performance & sector/country exposure.
+* **Descrizione:** Un'analisi approfondita del Vanguard FTSE All-World UCITS ETF (VWRL) dal 2014 al 2025. Focus: performance ed esposizione a settori/paesi.
 * **Tecnologie Usate:** Python (Pandas, Seaborn).
 * **Cosa ho imparato:** Competenza nell'estrazione e pulizia di serie storiche finanziarie e nella visualizzazione di dati complessi.
 
 #### ✍️ [Personal Website](https://github.com/stefanolondero/Stefano-Londero-Portoflio)
-* **Descrizione:** Personal portfolio website of Stefano Londero. It showcases the design projects that Stefano Londero made in the past years
-* **Tecnologie Usate:** HTML, CSS, JavaScript
+* **Descrizione:** Sito web del portfolio di Stefano Londero. Contiene i progetti di design realizzati negli ultimi anni.
+* **Tecnologie Usate:** HTML, CSS, JavaScript.
 
 ---
 
